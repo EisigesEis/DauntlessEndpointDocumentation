@@ -1,0 +1,4822 @@
+[
+  {
+    "id": "prestige_ent_ccfp_hero",
+    "displayName": "Masque of Taurus",
+    "displayDescription": "It's said the First Slayer wore the same design almost a millennium ago.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "season08a_prestige",
+      "cat_item_face_paint",
+      "breadcrumb",
+      "cc_premium",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ccfp_hero", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_dye_endurance",
+    "displayName": "Endurance",
+    "displayDescription": "Weather the oncoming storm in effortless style with this dazzling aether-infused dye.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN18_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season07_2_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "SAVE 30% | UNLOCK THE ELITE TRACK + SKIP 15 LEVELS",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3250,
+        "salesPrice": 2275,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "bundle",
+      "doubleXPWeekend",
+      "elite_bundle",
+      "live",
+      "oct31",
+      "one_time",
+      "s7b",
+      "season07_2_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season07_2_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season07_2",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_bombardier_01",
+    "displayName": "Bombardier Grenade Kit",
+    "displayDescription": "Get that throwing arm warmed up with this variety kit of grenades!\n\nTransfusion Grenades x15\nColdsnap Grenades x25\nConcussive Grenades x15\nBarrage Grenades x25\nInferno Grenades x25",
+    "displayPriority": 5900,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_supplies"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_GRENADE_ICE", "quantity": 25 },
+      { "catalogId": "QI_GRENADE_CLUSTER", "quantity": 25 },
+      { "catalogId": "QI_GRENADE_HEALING", "quantity": 15 },
+      { "catalogId": "QI_GRENADE_INTERRUPT", "quantity": 15 },
+      { "catalogId": "QI_GRENADE_INCENDIARY", "quantity": 25 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "currency_transmog",
+    "displayName": "Permanent Transmog Stones (5)",
+    "displayDescription": "Use one of these stones on a crafted item to add its appearance to your transmog collection. Once you've unlocked an item's appearance, you can apply it as many times as you like! Transmog stones are consumed upon use.",
+    "displayPriority": 5300,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_supplies", "cat_item_transmog_stone"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_TOKEN_TRANSMOG", "quantity": 5 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season08a_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "SAVE 30% | UNLOCK THE ELITE TRACK + SKIP 15 LEVELS",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3250,
+        "salesPrice": 2275,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "bundle",
+      "elite_bundle",
+      "live",
+      "one_time",
+      "s8a",
+      "season08a_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season08a_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season08a",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season09a_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "Save 30% | Unlock the Elite Track + skip 15 levels!",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3200,
+        "salesPrice": 2250,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "bundle",
+      "elite_bundle",
+      "live",
+      "one_time",
+      "season09a_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season09a_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season09a",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_survivor_01",
+    "displayName": "Survivor Supply Kit",
+    "displayDescription": "Be neither afraid nor petrified, Slayer. With these supplies you will survive.\n\nBulwark Tonic x15\nIronhide Pylon x10\nStamina Tonic x15",
+    "displayPriority": 5500,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_supplies",
+      "cat_item_bundle",
+      "rarity_common"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 20 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 30 },
+      { "catalogId": "QI_STAMINA_POTION_00", "quantity": 30 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_currency_bounty_large",
+    "displayName": "Premium Bounty Tokens (x32)",
+    "displayDescription": "Get more Hunt Pass progress by getting more bounties! These Bounty Tokens will carry over into your next Hunt Pass.",
+    "displayPriority": 5100,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_supplies", "store_tab_new_featured"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "TOKEN_BOUNTY_DRAFT_PREMIUM", "quantity": 32 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "plat_1p_10",
+    "displayName": "1,000 (+150 Bonus) Platinum",
+    "displayDescription": "Add 1,150 (1,000 + 150 Bonus) platinum to your account.",
+    "displayPriority": 4000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "1stparty",
+      "apr23",
+      "apr30",
+      "live",
+      "platinum",
+      "rarity_legendary",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM_BONUS", "quantity": 150 },
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 1000 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "f0a07e491655435c966aeceb9a4f040a",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "plat_1p_100",
+    "displayName": "10,000 (+4,000 Bonus) Platinum",
+    "displayDescription": "Add 14,000 (10,000 + 4,000 Bonus) platinum to your account.",
+    "displayPriority": 1000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "1stparty",
+      "apr23",
+      "apr30",
+      "live",
+      "platinum",
+      "rarity_legendary",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM_BONUS", "quantity": 4000 },
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 10000 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "ce51dea13dd64544a16c29ec5b00916a",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "plat_1p_25",
+    "displayName": "2,500 (+650 Bonus) Platinum",
+    "displayDescription": "Add 3,150 (2,500 + 650 Bonus) platinum to your account.",
+    "displayPriority": 3000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "1stparty",
+      "apr23",
+      "apr30",
+      "live",
+      "platinum",
+      "rarity_legendary",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM_BONUS", "quantity": 650 },
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 2500 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "d1d925cb3b1c4740b65287b6c472f294",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "plat_1p_50",
+    "displayName": "5,000 (+1,700 Bonus) Platinum",
+    "displayDescription": "Add 6,700 (5,000 + 1,700 Bonus) platinum to your account.",
+    "displayPriority": 2000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "1stparty",
+      "apr23",
+      "apr30",
+      "live",
+      "platinum",
+      "rarity_legendary",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM_BONUS", "quantity": 1700 },
+      { "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 5000 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "698d859e0c604117a0d1275776928fd0",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_emote_whip_arrival",
+    "displayName": "Whip-Smart",
+    "displayDescription": "Look at this wisecracker over here.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["live", "s10b", "test", "webstore", "emote_arrival", "sep3"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_INTRO_HP10B_RAIDERS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_healer_01",
+    "displayName": "Healer Supply Kit",
+    "displayDescription": "Save the day and stay alive with this pack of healing supplies.\n\nTransfusion Grenades x15\nLifedrain Tonic x15\nLifespring Pylon x10",
+    "displayPriority": 5800,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_supplies",
+      "cat_item_bundle",
+      "rarity_common"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_GRENADE_HEALING", "quantity": 15 },
+      { "catalogId": "QI_LIFESTEAL_AOE_POTION", "quantity": 15 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season07_1_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "SAVE 30% | UNLOCK THE ELITE TRACK + SKIP 15 LEVELS",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3250,
+        "salesPrice": 2275,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "bundle",
+      "elite_bundle",
+      "live",
+      "one_time",
+      "s7a",
+      "season07_1_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season07_1_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season07_1",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season09b_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "Save 30% | Unlock the Elite Track + skip 15 levels!",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3200,
+        "salesPrice": 2250,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "apr30",
+      "bundle",
+      "elite_bundle",
+      "live",
+      "one_time",
+      "season09b_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season09b_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season09b",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "season08b_premium_plus",
+    "displayName": "Elite Track Bundle",
+    "displayDescription": "SAVE 30% | UNLOCK THE ELITE TRACK + SKIP 15 LEVELS",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 3200,
+        "salesPrice": 2250,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "bundle",
+      "elite_bundle",
+      "jan30",
+      "live",
+      "one_time",
+      "s8b",
+      "season08b_pass",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "season08b_premium", "duration": 0 }],
+    "skuProgression": {
+      "progressionId": "season08b",
+      "xp": 1500,
+      "ranks": null
+    },
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_bundle_extreme_value_5",
+    "displayName": "Slayer Starter Pack",
+    "displayDescription": "This one-time-only bundle is PACKED with exclusive cosmetics, cells, and supplies. Grab it before it's gone!<br><br>\nIncluded: 600 Platinum, 25 Ace Chips, Elaborate Salute Emote*, Defender Crest Fabric*, Ramsgate Sigil*, Ramsgate Flare*, Transmog Stones (5), +1 Medic Cell, +1 Conditioning Cell, +1 Sturdy Cell, +1 Ragehunter Cell, +1 Evasive Fury Cell, Stamina Tonic (15), Bulwark Tonic (10), Frenzy Tonic (20), Blitz Tonic (15), Ironhide Pylon (5), and Lifespring Pylon (5).<BR><BR>\n\n*Exclusive to this bundle.",
+    "displayPriority": 2,
+    "prices": [],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "pricechange",
+      "supplies",
+      "webstore",
+      "xsolla",
+      "cat_item_bundle"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 20 },
+      { "catalogId": "CELL_PDODGE_ATKSPD_UC", "quantity": 1 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 15 },
+      { "catalogId": "BNC_SIGIL_001", "quantity": 1 },
+      { "catalogId": "BNC_FABRIC_011", "quantity": 1 },
+      { "catalogId": "CURRENCY_TOKEN_TRANSMOG", "quantity": 5 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 5 },
+      { "catalogId": "CURRENCY_PLATINUM", "quantity": 600 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 10 },
+      { "catalogId": "CELL_STAM_REGEN_FLAT_UC", "quantity": 1 },
+      { "catalogId": "CURRENCY_TOKEN_EXCHANGE_SPEED_UP", "quantity": 25 },
+      { "catalogId": "QI_FLARE_015", "quantity": 1 },
+      { "catalogId": "EM_PLAYER_GENERIC_022", "quantity": 1 },
+      { "catalogId": "CELL_PREVENT_STAGGER_UC", "quantity": 1 },
+      { "catalogId": "CELL_VSRAGE_BASEDMG_UC", "quantity": 1 },
+      { "catalogId": "QI_STAMINA_POTION_00", "quantity": 15 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 5 },
+      { "catalogId": "CELL_REVIVE_BETTER_UC", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_control_01",
+    "displayName": "Controller Supply Kit",
+    "displayDescription": "Speak to the manager? With this kit, you ARE the manager. Drive the conversation with these control-themed supplies.\n\nAssault Tonic x25\nConcussive Grenade x15\nIronhide Pylon x10",
+    "displayPriority": 5700,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_supplies",
+      "cat_item_bundle",
+      "rarity_common"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_STAGGER_POTION", "quantity": 25 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_GRENADE_INTERRUPT", "quantity": 15 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_character_facepaint_furious",
+    "displayName": "Furious",
+    "displayDescription": "Some Slayers are more intense than others.\n\n(Accessible from the character customization screen.)",
+    "displayPriority": 6510,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cat_item_face_paint", "cc_premium"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "character_facepaint_furious", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_emote_skateboard_arrival",
+    "displayName": "Power Rider",
+    "displayDescription": "All a-board!",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 750,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "s8b", "emote_arrival"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_INTRO_HP08B_SKATEBOARD_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_newslayer_01",
+    "displayName": "New Slayer Supply Kit",
+    "displayDescription": "Welcome to the hunt, rookie. It's dangerous out there, but these supplies will help.\n\nONE TIME PURCHASE\n\nStamina Tonic x15\nFrenzy Tonic x25\nBlitz Tonic x25\nBulwark Tonic x15\nIronhide Pylon x10\nLifespring Pylon x10",
+    "displayPriority": 5400,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 200,
+        "salesPrice": 100,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_supplies",
+      "cat_item_bundle",
+      "rarity_common"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 25 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 25 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 15 },
+      { "catalogId": "QI_STAMINA_POTION_00", "quantity": 15 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "prestige_wp_ms_hp05_ninja_00",
+    "displayName": "Dark Finality",
+    "displayDescription": "Finish them.",
+    "displayPriority": 24,
+    "prices": [
+      {
+        "currencyId": "id_currency_s13_coin",
+        "price": 1200,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": [
+      "cat_item_weapon_skin",
+      "prestige",
+      "prestige_store",
+      "season05a_prestige",
+      "tab_prestige",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_MS_HP05_NINJA_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "store_tutorial_dye_bundle_console",
+    "displayName": "The Recruit",
+    "displayDescription": "Add 2 free dyes to your collection: Goldenrod and Lagoon",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 0,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "dye_armour",
+      "dyes",
+      "free",
+      "rarity_uncommon",
+      "webstore",
+      "cat_item_bundle"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "DYE_BLUE03_DURABLE", "quantity": 1 },
+      { "catalogId": "TOKEN_STORE_TUTORIAL_DYE_BUNDLE", "quantity": 1 },
+      { "catalogId": "DYE_YELLOW03_DURABLE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_emote_boombox",
+    "displayName": "Of Boxes and Booms",
+    "displayDescription": "Hey, you gotta have your tunes.",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 400,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["s8b", "webstore", "emote_social"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP08B_BOOMBOX_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "plat_1p_5",
+    "displayName": "500 Platinum",
+    "displayDescription": "Add 500 platinum to your account.\nThis in-game currency can be used to purchase new weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass!",
+    "displayPriority": 5000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "1stparty",
+      "apr23",
+      "apr30",
+      "live",
+      "platinum",
+      "rarity_legendary",
+      "webstore"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 500 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "cab3b03b778a478ea30580dcaf45743b",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_supplies_dps_01",
+    "displayName": "Damage Up Supply Kit",
+    "displayDescription": "Bring the hurt and drop some pain with these damage-enhancing supplies.\n\nInspiring Pylon x10\nFrenzy Tonic x25\nBlitz Tonic x15",
+    "displayPriority": 5600,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_supplies",
+      "cat_item_bundle",
+      "rarity_common"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 25 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 15 },
+      { "catalogId": "QI_DAMAGE_PYLON", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_emote_onewithnature_arrival",
+    "displayName": "One with Nature",
+    "displayDescription": "Are you sure you're not part tree?",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "emote_arrival"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_INTRO_HP11B_ENGINEER_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_patrolkeys_25",
+    "displayName": "Patrol Keys (25)",
+    "displayDescription": "Used to recover lost treasures in Patrol Chests spread across the Shattered Isles.\n\nPatrol Keys x25",
+    "displayPriority": 5200,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_supplies"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "TOKEN_DAILY_PATROL_BONUS_PURCHASED", "quantity": 25 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_emote_snowstorm",
+    "displayName": "Personal Snowstorm",
+    "displayDescription": "You might want to wait this one out.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["s12b", "webstore", "emote_social"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP12B_MAGICAL_03", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp13a_ancient_00_durable",
+    "displayName": "Shifting Radiance",
+    "displayDescription": "\"Time travel is impossible... isn't it?\"",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP13A_ANCIENT_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_em_player_hp13a_ancient_01",
+    "displayName": "Watcher's Sphere",
+    "displayDescription": "\"A Watcher must often record detailed observations under harrowing circumstances. Any advantage helps.\"\n—Arkan Drew",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": [
+      "breadcrumb",
+      "season13a_prestige",
+      "emote_social",
+      "webstore",
+      "cat_item_emote"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP13A_ANCIENT_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_em_player_hp13a_ancient_02",
+    "displayName": "Catching Rays",
+    "displayDescription": "Relax, most Behemoths are flightless. They aren't going anywhere.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "s13a", "emote_social"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP13A_ANCIENT_02", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp13b_divine_00_durable",
+    "displayName": "Conundrum",
+    "displayDescription": "It's impossible to resist.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP13B_DIVINE_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp13b_divine_01_durable",
+    "displayName": "Event Horizon",
+    "displayDescription": "Nothing escapes its beauty.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP13B_DIVINE_01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_orange08_durable",
+    "displayName": "Ascendance",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_ORANGE08_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_lightgreen1_durable",
+    "displayName": "Springtime",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_LIGHTGREEN1_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red03_durable",
+    "displayName": "Sanguine",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_gray08_durable",
+    "displayName": "Gunmetal",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY08_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green06_durable",
+    "displayName": "Obscura",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_darkyellow_durable",
+    "displayName": "Honey",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_DARKYELLOW_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_darkeggplant_durable",
+    "displayName": "Contusion",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_DARKEGGPLANT_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_darkorange_durable",
+    "displayName": "Sunburn",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_DARKORANGE_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red10_durable",
+    "displayName": "Darling",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED10_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple05_durable",
+    "displayName": "Royalty",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue01_durable",
+    "displayName": "Tempest",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_yellow02_durable",
+    "displayName": "Gilded",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_YELLOW02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_gray03_durable",
+    "displayName": "Sterling",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown02_durable",
+    "displayName": "Espresso",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_yellow05_durable",
+    "displayName": "Daybreak",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_YELLOW05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple03_durable",
+    "displayName": "Obelisk",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue08_durable",
+    "displayName": "Glacier",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE08_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green05_durable",
+    "displayName": "Solitude",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown09_durable",
+    "displayName": "Groundbreak",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN09_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue02_durable",
+    "displayName": "Nauticus",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green07_durable",
+    "displayName": "Woodland",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN07_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green12_durable",
+    "displayName": "Oasis",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN12_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green13_durable",
+    "displayName": "Mirage",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN13_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_orange01_durable",
+    "displayName": "Sunset",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_ORANGE01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green16_durable",
+    "displayName": "Harbinger",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN16_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_yellow04_durable",
+    "displayName": "Alabaster",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_YELLOW04_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_orange03_durable",
+    "displayName": "Amaranth",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_ORANGE03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green01_durable",
+    "displayName": "Meadow",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red05_durable",
+    "displayName": "Mandrake",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_gray09_durable",
+    "displayName": "Smoke",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY09_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red02_durable",
+    "displayName": "Bubble Gum",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue05_durable",
+    "displayName": "Jawbreaker",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_forestgreen_durable",
+    "displayName": "Timberland",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_FORESTGREEN_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_darkteal_durable",
+    "displayName": "Grove",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_DARKTEAL_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_lightgreen_durable",
+    "displayName": "Greenwood",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_LIGHTGREEN_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue04_durable",
+    "displayName": "Altitude",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE04_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red08_durable",
+    "displayName": "Vice",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED08_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple01_durable",
+    "displayName": "Twilight",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue09_durable",
+    "displayName": "Battalion",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE09_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green11_durable",
+    "displayName": "Hyperion",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN11_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green02_durable",
+    "displayName": "Guerilla",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple04_durable",
+    "displayName": "Lunar",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE04_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple12_durable",
+    "displayName": "Celestial",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE12_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_em_player_hp14a_ranger_01",
+    "displayName": "Oswaldo's Sprint",
+    "displayDescription": "\"If I run fast enough, I can outrun Rezakiri beams!\"\n—Honest Ozz moments before failing to outrun Rezakiri beams",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 250,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "s14a",
+      "season14a_prestige",
+      "cat_item_emote",
+      "webstore",
+      "emote_social",
+      "breadcrumb"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP14A_RANGER_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_gd_frame_a_middleman_00",
+    "displayName": "Middlewings",
+    "displayDescription": "\"Not too high, not too low. That's the way you do it.\"",
+    "displayPriority": 10,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["s14b", "webstore", "hunting_gliders", "breadcrumb"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "GD_FRAME_A_MIDDLEMAN_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14a_ranger_00_durable",
+    "displayName": "Sagacious",
+    "displayDescription": "There is wisdom within these woods.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14A_RANGER_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14a_ranger_01_durable",
+    "displayName": "Relentless",
+    "displayDescription": "So called because it never relents.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14A_RANGER_01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14a_ranger_02_durable",
+    "displayName": "Divination",
+    "displayDescription": "Take care when seeking the truth. You might find it.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14A_RANGER_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_em_player_hp14b_protector_01",
+    "displayName": "Do the Automaton!",
+    "displayDescription": "Drop it like it's bot.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "s14b",
+      "webstore",
+      "cat_item_emote",
+      "emote_social",
+      "breadcrumb"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "EM_PLAYER_HP14B_PROTECTOR_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14b_protector_00_durable",
+    "displayName": "Sanctified",
+    "displayDescription": "In the name of all that's holy!",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14B_PROTECTOR_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14b_protector_01_durable",
+    "displayName": "Rustic",
+    "displayDescription": "City life isn't everything.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14B_PROTECTOR_01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp14b_protector_02_durable",
+    "displayName": "Autumn",
+    "displayDescription": "Even in world of drifting islands and elemental aether currents, seasons come and seasons go.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP14B_PROTECTOR_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_cchs_hp14b_protector_41",
+    "displayName": "Ostigaard Knot",
+    "displayDescription": "Traditional hairstyle crafted to fit perfectly within the confines of an Enforcer's Blast Helmet.",
+    "displayPriority": 16,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 250,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["s14b", "webstore", "cat_item_hair_style", "rarity_rare"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_cchs_hp14b_protector_41", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp11a_alchemist_00_durable",
+    "displayName": "Arboreal",
+    "displayDescription": "A shade that proudly declares, \"I speak both to and for the trees.\"",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP11A_ALCHEMIST_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp11a_alchemist_02",
+    "displayName": "Alchemancy",
+    "displayDescription": "So you want to be an alchemancer? You'd better look the part.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "season11a_prestige",
+      "webstore",
+      "cc_premium",
+      "cat_item_face_paint"
+    ],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp11a_alchemist_02", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp15a_battlesmith_durable_00",
+    "displayName": "Power",
+    "displayDescription": "An ornate dye from St. Avellaine.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "DYE_HP15A_BATTLESMITH_00_DURABLE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp15a_elegance_00_durable",
+    "displayName": "Knowledge",
+    "displayDescription": "An ornate dye from St. Avellaine.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP15A_ELEGANCE_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp15b_seer_durable_00",
+    "displayName": "Mysticism",
+    "displayDescription": "You don't need a third eye to appreciate these colours.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP15B_SEER_DURABLE_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp15b_grind_durable_00",
+    "displayName": "Superb",
+    "displayDescription": "You won't find a better dye this side of the desert.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP15B_GRIND_DURABLE_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hero_blue_durable",
+    "displayName": "Hero",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HERO_BLUE_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp13b_divine_02_durable",
+    "displayName": "Vortex",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP13B_DIVINE_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue06_durable",
+    "displayName": "Infiltration",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red07_durable",
+    "displayName": "Bloodlust",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED07_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red11_durable",
+    "displayName": "Defiance",
+    "displayDescription": "",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED11_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_titan_durable",
+    "displayName": "Vengeance",
+    "displayDescription": "",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_TITAN_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_yellow03_durable",
+    "displayName": "Goldenrod",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_YELLOW03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue03_durable",
+    "displayName": "Lagoon",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown04_durable",
+    "displayName": "Ashen Brown",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN04_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown03_durable",
+    "displayName": "Straw",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown06_durable",
+    "displayName": "Dust",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_orange06_durable",
+    "displayName": "Peach",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_ORANGE06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_gray06_durable",
+    "displayName": "Black Pearl",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown01_durable",
+    "displayName": "Sandstone",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green03_durable",
+    "displayName": "Sapling",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN03_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue07_durable",
+    "displayName": "Plunge",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE07_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_red09_durable",
+    "displayName": "Blood Moon",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_RED09_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp08b_punk_00",
+    "displayName": "Stardust",
+    "displayDescription": "A distinctive mark worn by a legendary Slayer said to have fallen from the sky. ",
+    "displayPriority": 89,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["breadcrumb", "webstore", "cc_premium"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_8b_aetherpunk_00", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp10b_raiders_01",
+    "displayName": "Brawler",
+    "displayDescription": "You should see the other Slayer.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp10b_raiders_01", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp13b_radiant_00",
+    "displayName": "Forever Ember",
+    "displayDescription": "The fire is within you.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp13b_radiant_00", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp10a_celestial_02",
+    "displayName": "Forward Thinker",
+    "displayDescription": "Recognize the infinite.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp10a_celestial_02", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp11b_engineer_02",
+    "displayName": "Freckles",
+    "displayDescription": "Each one, exactly where it needs to be!",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp11b_engineer_02", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp12b_magical_01",
+    "displayName": "Frostmask",
+    "displayDescription": "Not as cold as it looks.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp12b_magical_01", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_character_facepaint_harlequin",
+    "displayName": "Harlequin",
+    "displayDescription": "The joke's on you.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [
+      { "name": "character_facepaint_harlequin", "duration": 0 }
+    ],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_ent_ccfp_hp10b_raiders_00",
+    "displayName": "Shadow Stalker",
+    "displayDescription": "What you do in the shadows is your business,",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cc_premium", "cat_item_face_paint"],
+    "scheduledTags": null,
+    "items": null,
+    "entitlements": [{ "name": "ent_ccfp_hp10b_raiders_00", "duration": 0 }],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "pass_platinum_starter_1000",
+    "displayName": "Platinum Pass",
+    "displayDescription": "Get 1,100 Platinum over 7 days at a huge discount!\n\n400 Platinum will be immediately added to your account. After your purchase, you will also be able to claim an extra 100 platinum daily from the store, for 7 days, starting today!\n\nPLEASE NOTE: Unclaimed platinum will be lost, and will not be refunded, so check in every day to take full advantage of your Platinum Pass. Daily rewards will be delivered 24 hours after the previous claim, in the store.",
+    "displayPriority": 1,
+    "prices": [],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "d24_season1_store",
+      "webstore",
+      "cat_item_premium_pass",
+      "1stparty",
+      "platinum"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_PLATINUM_PLATFORM", "quantity": 400 }],
+    "entitlements": [
+      { "name": "platinum_pass_owner", "duration": 168 },
+      { "name": "pass_platinum_starter_1000_ever_owned", "duration": 0 }
+    ],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "b88b758eec6547b3834dc609c0734f43",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_ar_godhand_00",
+    "displayName": "Godhand Armour Set",
+    "displayDescription": "You GODda HAND it to her. Moyra really outdid herself with this mythical-looking armour set.\n\nGauntlets of the Gods Armour Skin (Arms) x1\nGuardplate of the Gods Armour Skin (Torso) x1\nGuide of the Gods Armour Skin (Head) x1\nGreaves of the Gods Armour Skin (Legs) x1",
+    "displayPriority": 1000,
+    "prices": [],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": [
+      "d24_season1_store",
+      "webstore",
+      "1stparty",
+      "platinum",
+      "cat_item_armour_skin"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "AR_GODHAND_ARMS_00", "quantity": 1 },
+      { "catalogId": "AR_GODHAND_CHEST_00", "quantity": 1 },
+      { "catalogId": "AR_GODHAND_HELM_00", "quantity": 1 },
+      { "catalogId": "AR_GODHAND_LEGS_00", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "263eab19202847d9a573743a41f5dfb0",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_nightshade_durable",
+    "displayName": "Nightshade",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_s15_coin",
+        "price": 400,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_NIGHTSHADE_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp10b_raiders_00_durable",
+    "displayName": "Carcosa",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP10B_RAIDERS_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp09a_assassins_01_durable",
+    "displayName": "Courageous",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP09A_ASSASSINS_01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple02_durable",
+    "displayName": "Eggplant",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp09a_assassins_02_durable",
+    "displayName": "Emergence",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP09A_ASSASSINS_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp09b_commando_02_durable",
+    "displayName": "Flamethrower",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP09B_COMMANDO_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_blue11_durable",
+    "displayName": "Gravity",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BLUE11_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp09b_commando_01_durable",
+    "displayName": "Grenadier",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP09B_COMMANDO_01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hero_orange_durable",
+    "displayName": "Intrepid",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HERO_ORANGE_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp09b_commando_00_durable",
+    "displayName": "Ironheart",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP09B_COMMANDO_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_moonlight_durable",
+    "displayName": "Moonlight",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_MOONLIGHT_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_green15_durable",
+    "displayName": "Paradise",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GREEN15_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_purple06_durable",
+    "displayName": "Orchid",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE06_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_hp10a_celestial_00_durable",
+    "displayName": "Phantasm",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP10A_CELESTIAL_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_brown05_durable",
+    "displayName": "Rose Gold",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_BROWN05_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_dye_orange09_durable",
+    "displayName": "Vigilance",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["dye_armour", "newdye", "dyes", "cat_item_armour_dye", "webstore"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_ORANGE09_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_eb_crowbear_exotic",
+    "displayName": "The Hunger",
+    "displayDescription": "A hungry blade that devours the life of its user to grant them strength.\n\nLEGENDARY: Portal Dive - Create an umbral explosion and teleport high into the air. Reactivate to crash down, creating another umbral explosion on impact.\nSPECIAL: Feast - When meter is full, activate. While active, you continuously lose health, but you have lifesteal, continuously generate Valour, and launch umbral slashes ahead of you with each attack.\nPASSIVE: Verge of Night - You have 2 held MIGHT.\n\nThe Hunger Gameplay Weapon (Sword - Umbral) x1",
+    "displayPriority": 1100,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_EB_CROWBEAR_EXOTIC", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_eb_shock_01",
+    "displayName": "Thundersoul",
+    "displayDescription": "A spiked club that handles with the finesse of a sword. The wielder stands their ground against Behemoths, while dealing crushing damage to stagger them.\n\nLEGENDARY: Thunderous Charge - Become lightning, finding the nearest Behemoth and teleporting to it with an explosive shock burst.\nSPECIAL: Avenging Overdrive - When meter is full, activate to gain 2 stacks of SPEED and take a brief defensive stance which will parry an incoming attack and counter it, entering overdrive. Reactivate during overdrive to parry again. Successful parries generate 1 Valour.\nPASSIVE: Energetic - After a dodging through a Behemoth's attack, your next attacks generate 100% bonus meter.\n\nThundersoul Gameplay Weapon (Sword - Shock) x1",
+    "displayPriority": 1200,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_EB_SHOCK_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ms_bugbear_exotic",
+    "displayName": "The Godhand",
+    "displayDescription": "The Godhand refracts light through its prismatic design, focusing it into an intensely powerful beam of Radiant energy.\n\nLEGENDARY: Gathering Power - Stand your ground, powering up and instantly filling your meter to full.\nSPECIAL: Godhand - Convert your meter into ammo. Spend that ammo to channel a beam of radiant energy that deals increasing damage over time the longer it focuses on one part.\nPASSIVE: Runic Sigils - When you activate your legendary, create a sigil on the ground that activates when a Behemoth crosses it, granting 250 shield.\n\nThe Godhand Gameplay Weapon (War Pike - Radiant) x1",
+    "displayPriority": 1300,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_MS_BUGBEAR_EXOTIC", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ih_sally_exotic",
+    "displayName": "Molten Edict",
+    "displayDescription": "Infused with blaze aether, Molten Edict ignites Behemoths with molten rock, before forming a pair of powerful gauntlets to pummel the burning foes into the ground.\n\nLEGENDARY: Fist of the Mountain - Coat your fists in molten earth, changing your moveset. Your punches deal large amounts of blaze buildup, and your attacks deal increased damage against Behemoths who are on fire.\nSPECIAL: Molten Orb - Lob balls of fire that deal increased damage and can set the ground on fire when charged with more ammo. Your Aetherslam unleashes a rolling ball of lava.\nPASSIVE: Burning Earth - After spending 75 stamina, your next attack that hits a Behemoth launches a cone of flame.\n\nMolten Edict Gameplay Weapon (Hammer - Blaze) x1",
+    "displayPriority": 1400,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_IH_SALLY_EXOTIC", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ga_reapers_edge",
+    "displayName": "Reapers Edge",
+    "displayDescription": "On the cusp of reality between the Shattered Isles and the Umbral realm ruled by by the Behemoth Thrax, lies the Reapers Edge. Dragging its wielder across the barrier to unleash punishing attacks against helpless Behemoths, stealing aether to empower themselves and allies.\n\nLEGENDARY: Planar Rip - Rip a tear in the fabric of reality and enter the Umbral realm. While in it, take reduced damage, and become immune to stagger. For every 3000 damage dealt during it, give 1 MIGHT to friendly Slayers when it ends.\nSPECIAL: Reaper's Flight - Throw Reapers Edge. It deals continuous damage over time while in flight, and then returns to you. Reactivate while in flight to teleport to its current position and perform an umbral strike in the direction your Slayer is facing.\nPASSIVE: Umbral Corruption - Attacks have a chance to generate an umbral orb. Each orb increases the damage dealt by attacks by 1.75%. With 5 or more active orbs, the damage bonus per orb is doubled.\n\nReapers Edge Gameplay Weapon (Axe - Umbral) x1",
+    "displayPriority": 1500,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_GA_REAPERS_EDGE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ga_frost_01",
+    "displayName": "Eternal Winter",
+    "displayDescription": "With the inevitability of a glacier's movement, Eternal Winter crashes upon its enemies with incredible power. Slow, steady, and unstoppable.\n\nLEGENDARY: Determined Strike - Perform a powerful strike. The strength of this attack is greatly increased based on your Determination Level.\nSPECIAL: Grim Onslaught - Throw your axe. It deals a great deal of damage and bounces back. Catching it grants determination.\nPASSIVE: Frozen Brand - Dealing damage to a Behemoth places a freezing brand on it. After a time, the brand will detonate. Dealing enough damage to the brand detonates it early, dealing increased damage. Recharges after a short time.\n\nEternal Winter Gameplay Weapon (Axe - Frost) x1",
+    "displayPriority": 1600,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_GA_FROST_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_cb_baneandbalm",
+    "displayName": "Bane & Balm",
+    "displayDescription": "Dripping with a poison concoction that disrupts the aether of Behemoths, these Alchemical chain blades hasten their end, while drawing on terra aether to buff and heal their allies.\n\nLEGENDARY: Bloom of Balm - Revive all allies in bleed out, and place a heal over time on all allies. Can be activated while in bleed out.\nSPECIAL: Insatiable Dance - Push off a Behemoth and into the air. Activate a heavy attack while in the air to slam down, spending one or more chain charges to deal damage, heal yourself, and create orbs that heal allies.\nPASSIVE: Dripping Venom - When you deal damage, deal 10% of the damage again over the next 5 seconds.\n\nBane & Balm Gameplay Weapon (Chain Blades - Terra) x1",
+    "displayPriority": 1700,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_CB_BANEANDBALM", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_cb_frost_01",
+    "displayName": "To & Fro",
+    "displayDescription": "As fleeting and beautiful as a snowflake, To & Fro flickers across the battlefield with the crisp edge of sharpened Vylmark steel, with an aura of speed and the sharpened bite of of winter.\n\nLEGENDARY: Frigid Zeal - Activate an aura that grants all Slayers within it 3 held stacks of speed.\nSPECIAL: Reaper's Dance - Push off a Behemoth and into the air. Activate a heavy attack to slam down, dealing damage based on the number of chain charges spent.\nPASSIVE: Frost Sprites - On landing Reaper's Dance, spawn 3 frost sprites that cause your next attack to deal increased damage.\n\nTo & Fro Gameplay Weapon (Chain Blades - Frost) x1",
+    "displayPriority": 1800,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_CB_FROST_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ms_blaze_01",
+    "displayName": "Firestorm",
+    "displayDescription": "A feat of Ostian Engineering, Firestorm launches Slayers into battle to unleash a wall of missiles and rain fire from an airship in the skies.\n\nLEGENDARY: Airship Barrage - Dealing wound damage over the next 30 seconds builds up a reserve of cannon balls, which are then fired down on the nearest Behemoth from an airship above.\nSPECIAL: Reckless Leap - Convert your meter into ammo. Spend that ammo to perform a flying lunge attack that deals up to 1500 damage based on distance and ammo quality.\nPASSIVE: Homing Missiles - Your attacks can lock onto Behemoth parts. Dealing damage loads up homing missiles, that fire on the locked on part when you dodge.\n\nFirestorm Gameplay Weapon (War Pike - Blaze) x1",
+    "displayPriority": 1900,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_MS_BLAZE_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ih_frost_01",
+    "displayName": "The Anvil",
+    "displayDescription": "A block of ever-frozen ice once used by a renowned Skaldish smith, The Anvil creates constructs of ice to aid your allies and turn the battlefield against Behemoths.\n\nLEGENDARY: The Wall - Create a wall of ice that blocks projectiles, interrupts Behemoths that pass through it, and freezes non-frost Behemoths.\nSPECIAL: Mighty Landbreaker - Open a crack in the ground that exposes the aether of the Islands, allows Slayers to gain 3 MIGHT by walking over it. Create one pickup per ammo spent. A Slayer cannot gain this benefit more than once every 45 seconds.\nPASSIVE: Frozen Mines - On dodging, create two ice mines that damage any Behemoth that touches them. Recharges every 15 seconds.\n\nThe Anvil Gameplay Weapon (Hammer - Frost) x1",
+    "displayPriority": 2000,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_IH_FROST_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapon_gameplay_wp_ac_terra_01",
+    "displayName": "Oathkeepers",
+    "displayDescription": "Terra rich gauntlets that make the wielder an immovable object. They tether themselves to the Slayer's lifeforce, protecting them and their allies from harm.\n\nLEGENDARY: Oathkeeper's Protection - Gain 500 health, and grant Oathkeeper's Protection to all nearby allies for 15 seconds. When a protected ally would take damage, instead they take no damage, and you take 50% of the damage they would have taken.\nSPECIAL: Titanic Bulwark - Smash your fists together, creating a damaging pulse around you, and granting DEFENSE stacks to all nearby allies based on active mantras.\nPASSIVE: Reactive Armour - When you take health damage and have no active Shield, gain an equal amount of Shield.\n\nOathkeepers Gameplay Weapon (Aether Strikers - Terra) x1",
+    "displayPriority": 2100,
+    "prices": [
+      {
+        "currencyId": "id_currency_weapon_token",
+        "price": 100,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 1,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_legendary"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_AC_TERRA_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapontokens_100",
+    "displayName": "100 Weapon Tokens ",
+    "displayDescription": "Use Weapon Tokens to unlock your next favourite weapon in the battle against the Behemoths.\n\nWeapon Tokens x100",
+    "displayPriority": 800,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 2000,
+        "salesPrice": 1500,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_common"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPON_TOKEN", "quantity": 100 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapontokens_50",
+    "displayName": "50 Weapon Tokens",
+    "displayDescription": "Use Weapon Tokens to unlock your next favourite weapon in the battle against the Behemoths.\n\nWeapon Tokens x50",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 1000,
+        "salesPrice": 900,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_common"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPON_TOKEN", "quantity": 50 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapontokens_25",
+    "displayName": "25 Weapon Tokens",
+    "displayDescription": "Use Weapon Tokens to unlock your next favourite weapon in the battle against the Behemoths.\n\nWeapon Tokens x25",
+    "displayPriority": 900,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "store_tab_weapons", "rarity_common"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPON_TOKEN", "quantity": 25 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weaponxp_small",
+    "displayName": "Dull Aetherite",
+    "displayDescription": "A dense Aetherite cluster. Can be infused with your weapons to make them a little bit stronger.\nRestocks once per hour.\n\nWeapon XP x100",
+    "displayPriority": 3200,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 0,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["d24_season1_store", "webstore", "store_tab_weapons"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPONXP_SMALL", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": "Cooldown",
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weaponxp_medium",
+    "displayName": "Shining Aetherite",
+    "displayDescription": "A shimmering Aetherite gem. Can be infused with your weapons to make them much stronger.\nRestocks once per day.\n\nWeapon XP x1000",
+    "displayPriority": 3100,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 0,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["d24_season1_store", "webstore", "store_tab_weapons"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPONXP_MEDIUM", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": "Cooldown",
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weaponxp_large",
+    "displayName": "Peerless Aetherite",
+    "displayDescription": "A brilliant Aetherite gem. Can be infused with your weapons to make them stronger.\nRestocks once per week.\n\nWeapon XP x5000",
+    "displayPriority": 3000,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 0,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["d24_season1_store", "webstore", "store_tab_weapons"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPONXP_LARGE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": "Cooldown",
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_slayer_supply",
+    "displayName": "Slayer Supply Bundle",
+    "displayDescription": "This bundle contains everything a Slayer needs to get ahead of the pack or boost their current adventures:\n​    - 50,000 Rams\n​    - 500 Combat Merits\n​    - 50 Bounty Tokens\n​    - 25 Patrol Keys\n​    - 60 Stamina Tonics,100 Frenzy Tonics, 100 Blitz Tonics, 60 Bulwark Tonics, 40 Lifespring Pylons, 40 Ironhide Pylons",
+    "displayPriority": 5000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["webstore", "cat_item_bundle", "1stparty", "platinum"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_NOTES", "quantity": 50000 },
+      { "catalogId": "CURRENCY_PJM_WEAPON", "quantity": 500 },
+      { "catalogId": "TOKEN_BOUNTY_DRAFT_PREMIUM", "quantity": 50 },
+      { "catalogId": "TOKEN_DAILY_PATROL_BONUS_PURCHASED", "quantity": 25 },
+      { "catalogId": "QI_STAMINA_POTION_00", "quantity": 60 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 100 },
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 100 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 60 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 40 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 40 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": "1d5f51e0965e4652a2d5c435ae6e7a70",
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_slayer_supply_swi_na",
+    "displayName": "Slayer Supply Bundle",
+    "displayDescription": "This bundle contains everything a Slayer needs to get ahead of the pack or boost their current adventures:\n​    - 50,000 Rams\n​    - 500 Combat Merits\n​    - 50 Bounty Tokens\n​    - 25 Patrol Keys\n​    - 60 Stamina Tonics,100 Frenzy Tonics, 100 Blitz Tonics, 60 Bulwark Tonics, 40 Lifespring Pylons, 40 Ironhide Pylons",
+    "displayPriority": 5000,
+    "prices": [],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {
+      "standard": "Engine.Texture2D'/Game/UI/Textures/StoreImagesSquare/Store_Bundle_512x512_elite_slayer_d24.Store_Bundle_512x512_elite_slayer_d24'"
+    },
+    "tags": ["webstore", "cat_item_bundle", "platinum", "1stparty"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CURRENCY_NOTES", "quantity": 50000 },
+      { "catalogId": "TOKEN_BOUNTY_DRAFT_PREMIUM", "quantity": 50 },
+      { "catalogId": "TOKEN_DAILY_PATROL_BONUS_PURCHASED", "quantity": 25 },
+      { "catalogId": "QI_STAMINA_POTION_00", "quantity": 60 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 100 },
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 100 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 60 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 40 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 40 },
+      { "catalogId": "CURRENCY_PJM_WEAPON", "quantity": 500 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "weapontokens_25_free",
+    "displayName": "25 Weapon Tokens",
+    "displayDescription": "Use Weapon Tokens to unlock your next favourite weapon in the battle against the Behemoths.\n\nWeapon Tokens x25",
+    "displayPriority": 910,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "price": 0,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "webstore",
+      "store_tab_weapons",
+      "rarity_common",
+      "store_tab_new_featured"
+    ],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CURRENCY_WEAPON_TOKEN", "quantity": 25 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": "Cooldown",
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  }
+]

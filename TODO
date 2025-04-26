@@ -1,0 +1,18 @@
+kicking party leader works (tf)
+promoting in foreign party doesn't work
+
+Bad Request is answer on attempting second free claim. (I wonder where it's saved)
+
+
+TODO:
+- A lot of things work on UDP. Has UE Bunch as linked layer. Idk if its chunked or compressed. Encrypted probably not.
+- Slayer link accepted cancel (invitor cancels)
+- Slayer link accepted cancel (acceptor cancels)
+- chat
+
+TODO API Writing:
+- Check if guild validate creates a guild on valid
+- Invite player in when trials hunt
+- Through matchmaking try to join ongoing hunt
+
+- Stack up all hunt ids

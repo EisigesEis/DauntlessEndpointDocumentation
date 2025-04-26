@@ -1,0 +1,107 @@
+[
+  {
+    "availableFrom": null,
+    "availableTo": null,
+    "displayDescription": "Collect more rewards while you hunt!",
+    "displayName": "Elite Hunt Pass",
+    "displayPriority": 300,
+    "duplicateInstancedItems": null,
+    "entitlements": [
+      {
+        "duration": 0,
+        "name": "d24_season1_premium"
+      },
+      {
+        "duration": 0,
+        "name": "ent_boost_vip"
+      },
+      {
+        "duration": 0,
+        "name": "escalation_xp_boost_entitlement"
+      }
+    ],
+    "id": "d24_season1_premium",
+    "images": {},
+    "items": null,
+    "loadoutSlots": null,
+    "maxAllowed": null,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "multiPrice": null,
+        "price": 1000,
+        "salesPrice": null
+      }
+    ],
+    "remaining": null,
+    "scheduledTags": null,
+    "skuProgression": {
+      "progressionId": "d24_season1",
+      "ranks": null,
+      "xp": 100
+    },
+    "tags": [
+      "event_pass",
+      "huntpass_store",
+      "d24_season1_pass",
+      "d24_season1_store",
+      "rarity_rare"
+    ],
+    "timeAvailabilityReason": null
+  },
+  {
+    "availableFrom": null,
+    "availableTo": null,
+    "displayDescription": "Unlock the Elite track and skip 20 levels!",
+    "displayName": "Elite Track - Large Bundle",
+    "displayPriority": 100,
+    "duplicateInstancedItems": null,
+    "entitlements": [
+      {
+        "duration": 0,
+        "name": "d24_season1_premium"
+      },
+      {
+        "duration": 0,
+        "name": "ent_boost_vip"
+      },
+      {
+        "duration": 0,
+        "name": "escalation_xp_boost_entitlement"
+      }
+    ],
+    "id": "d24_season1_premium_plus_2",
+    "images": {},
+    "items": null,
+    "loadoutSlots": null,
+    "maxAllowed": null,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "multiPrice": null,
+        "price": 4000,
+        "salesPrice": 2400
+      }
+    ],
+    "remaining": null,
+    "scheduledTags": null,
+    "skuProgression": {
+      "progressionId": "d24_season1",
+      "ranks": null,
+      "xp": 2000
+    },
+    "tags": [
+      "bundle",
+      "elite_bundle",
+      "huntpass_store",
+      "d24_season1_pass",
+      "d24_season1_store",
+      "rarity_legendary"
+    ],
+    "timeAvailabilityReason": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "availableFrom": null,
+    "availableTo": null,
+    "displayDescription": "Add one (1) more loadout slot to your account!\n\nThis increase is permanent and does not expire.",
+    "displayName": "1 Loadout Slot",
+    "displayPriority": 1,
+    "duplicateInstancedItems": null,
+    "entitlements": [],
+    "id": "bundle_loadout_1",
+    "images": {},
+    "items": null,
+    "loadoutSlots": 1,
+    "maxAllowed": 15,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "multiPrice": null,
+        "price": 100,
+        "salesPrice": null
+      }
+    ],
+    "remaining": 15,
+    "scheduledTags": null,
+    "skuProgression": null,
+    "tags": [
+      "feature",
+      "loadout_slots",
+      "newstore",
+      "rarity_epic",
+      "sale",
+      "sept26",
+      "supplies_slot",
+      "sep3"
+    ],
+    "timeAvailabilityReason": null
+  }
+]

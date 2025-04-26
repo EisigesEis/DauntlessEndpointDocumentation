@@ -1,0 +1,106 @@
+[
+  {
+    "availableFrom": null,
+    "availableTo": null,
+    "displayDescription": "Hold fast against the torrents of time.",
+    "displayName": "Event Pass: Chronoslayer",
+    "displayPriority": 1000,
+    "duplicateInstancedItems": null,
+    "entitlements": [
+      {
+        "duration": 0,
+        "name": "eventpass_glitter_ultra_premium"
+      }
+    ],
+    "id": "eventpass_glitter_ultra_premium",
+    "images": {},
+    "items": null,
+    "loadoutSlots": null,
+    "maxAllowed": 1,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [],
+    "remaining": 0,
+    "scheduledTags": null,
+    "skuProgression": {
+      "progressionId": "eventpass_glitter_ultra",
+      "ranks": null,
+      "xp": null
+    },
+    "tags": ["event_pass", "huntpass_store", "eventpass_glitter_ultra_pass"],
+    "timeAvailabilityReason": null
+  },
+  {
+    "availableFrom": "2025-01-30T18:00:00Z",
+    "availableTo": "2025-03-13T17:00:00Z",
+    "displayDescription": "Young people across the Shattered Isles have developed a new style that mixes aether technology and fashion. These aetherpunks protest against the rigid rulings of Ostia, Avellainia, and even Ramsgate. \n\nUnlock this pass to raise your voice and earn aetherpunk rewards.",
+    "displayName": "Underground Style",
+    "displayPriority": 1000,
+    "duplicateInstancedItems": null,
+    "entitlements": [
+      {
+        "duration": 0,
+        "name": "season08b_vault_premium"
+      }
+    ],
+    "id": "season08b_vault_premium",
+    "images": {},
+    "items": null,
+    "loadoutSlots": null,
+    "maxAllowed": 1,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "multiPrice": null,
+        "price": 950,
+        "salesPrice": null
+      }
+    ],
+    "remaining": 1,
+    "scheduledTags": null,
+    "skuProgression": null,
+    "tags": [
+      "event_pass",
+      "huntpass_store",
+      "season08b_vault_pass",
+      "season08b_prestige"
+    ],
+    "timeAvailabilityReason": "TimeRange"
+  },
+  {
+    "availableFrom": "2025-01-30T18:00:00Z",
+    "availableTo": "2025-03-13T17:00:00Z",
+    "displayDescription": "The secretkeepers are an order of researchers tasked with the collection and protection of all kinds of knowledge. They serve the Orrery to advance humanity's advantage over Behemoths — at any cost. Some say that a secretkeeper can read the minds of weak-willed Slayers. Others say that's superstition. Only the secretkeepers themselves know the truth. \n\nUnlock this pass to join the secret order and earn hidden rewards.",
+    "displayName": "Gilded Secrets",
+    "displayPriority": 1000,
+    "duplicateInstancedItems": null,
+    "entitlements": [
+      {
+        "duration": 0,
+        "name": "pass_rewardcache_season15a"
+      }
+    ],
+    "id": "pass_rewardcache_season15a",
+    "images": {},
+    "items": null,
+    "loadoutSlots": null,
+    "maxAllowed": 1,
+    "missingEntitlementNames": null,
+    "platformOfferId": null,
+    "prices": [
+      {
+        "currencyId": "id_currency_platinum",
+        "multiPrice": null,
+        "price": 950,
+        "salesPrice": null
+      }
+    ],
+    "remaining": 1,
+    "scheduledTags": null,
+    "skuProgression": null,
+    "tags": ["huntpass_store", "tag_pass_rewardcache_season15a"],
+    "timeAvailabilityReason": "TimeRange"
+  }
+]
