@@ -13,7 +13,7 @@ Probably used to tell leaderboards entry in the future how player is playing the
   "dauntlessid": "XQBF5VHGFJHR5AUILEPYI55MUQ",
   "epicid": "05e64c3790334d6f835dc4ef9d45bfda",
   "platformid": "",
-  "currentplatform": "WIN",
+  "currentplatform": "WIN", // WIN, steam, 
   "currentdisplayname": "Bärtiger Bär"
 }
 ```
