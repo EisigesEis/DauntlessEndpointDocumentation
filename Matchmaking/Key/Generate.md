@@ -5,7 +5,7 @@ Auth: Yes
 ---
 
 ## Comment
-256 bit FEAESKey. But why is nonce 43B long?
+256 bit [FEAESKey](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Core/Misc/FAES/FAESKey). But why is nonce 43B long?
 
 As soon as matchmaking is done they generate a key that is not used in any request. I assume this is what's used to encode UDP. By the consistency of the packets start I can guess they're using [UE Bunch packets](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Net/FInBunch) and then encrypting. I'm unsure which method of encryption they're using. Either from UE library or custom. A good starting point might be [FEncryptionData](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/CoreUObject/UObject/FEncryptionData) since it can take key and fingerprint/nonce.
 

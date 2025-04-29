@@ -20,6 +20,15 @@ No payload.
 }
 ```
 
+### Already guild leader in other guild
+```json
+{
+  "code": "OccupiedAdorableQuillshot",
+  "message": "Account XQBF5VHGFJHR5AUILEPYI55MUQ is already in a guild.",
+  "payload": null
+}
+```
+
 ### Valid invite
 Same as [GetOwnGuild](../GetOwnGuild.md)
 ````json
