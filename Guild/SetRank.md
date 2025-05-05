@@ -33,6 +33,24 @@ No payload.
 }
 ```
 
+### demoting self as leader
+```json
+{
+  "code": "ChiefAdorableQuillshot",
+  "message": "Guild leader cannot be demoted. Promote a different member to leader instead.",
+  "payload": null
+}
+```
+
+### promote self without priviliges
+```json
+{
+  "code": "SlyAdorableQuillshot",
+  "message": "Insufficient guild privileges.",
+  "payload": null
+}
+```
+
 ### No auth
 ```json
 {

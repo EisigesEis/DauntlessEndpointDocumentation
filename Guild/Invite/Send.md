@@ -11,6 +11,25 @@ Invite player to guild.
 No payload.
 
 ## Example Response
+### invite without inviter guild membership
+```json
+{
+  "code": "ExcludedAdorableQuillshot",
+  "message": "Account U2BLWVTDHZGWLBKKLY2QG6UX4I is not in a guild.", // own phxl id
+  "payload": null
+}
+```
+
+### invite as member
+```json
+{
+  "code": "SlyAdorableQuillshot",
+  "message": "Insufficient guild privileges.",
+  "payload": null
+}
+```
+
+### full guild
 ```json
 {
   "code": "StuffedAdorableQuillshot",
@@ -19,6 +38,25 @@ No payload.
 }
 ```
 
+### invite self
+```json
+{
+  "code": "ClonedAdorableQuillshot",
+  "message": "Account XQBF5VHGFJHR5AUILEPYI55MUQ is already in guild 439fdb55-b311-4f96-a8ca-bec688e00ca2.",
+  "payload": null
+}
+```
+
+### invite again
+```json
+{
+  "code": "RedundantAdorableQuillshot",
+  "message": "Account U2BLWVTDHZGWLBKKLY2QG6UX4I is already invited to guild 439fdb55-b311-4f96-a8ca-bec688e00ca2.",
+  "payload": null
+}
+```
+
+### all good
 ```json
 {
   "code": null,

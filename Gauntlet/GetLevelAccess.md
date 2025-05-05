@@ -16,6 +16,7 @@ No payload.
 }
 ```
 
+for some reason the game sometimes sends this without auth
 ```json
 {
   "code": "MajesticAdorableGnasher",

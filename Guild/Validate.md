@@ -28,6 +28,26 @@ I'm assuming this creates a guild on valid? Couldn't find explicit request that 
 }
 ```
 
+### profane nameplate
+400 Bad Request
+```json
+{
+  "code": "DirtyAdorableQuillshot",
+  "message": "Guild nameplate is inappropriate.",
+  "payload": null
+}
+```
+
+### profane name
+400 Bad Request
+```json
+{
+  "code": "NastyAdorableQuillshot",
+  "message": "Guild name is inappropriate.",
+  "payload": null
+}
+```
+
 ### invalid characters in name
 400 Bad Request
 ```json
