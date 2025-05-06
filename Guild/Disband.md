@@ -11,14 +11,25 @@ Disband guild.
 No payload.
 
 ## Example Response
-```json
-{ "code": null, "message": "OK", "payload": {} }
-```
-
+### not member of guild
 ```json
 {
   "code": "ExcludedAdorableQuillshot",
   "message": "Account U2BLWVTDHZGWLBKKLY2QG6UX4I is not in guild e7e1fe22-a613-4f18-bd83-621fbb48fb04.",
   "payload": null
 }
+```
+
+### disband without leader role
+```json
+{
+  "code": "SlyAdorableQuillshot",
+  "message": "Insufficient guild privileges.",
+  "payload": null
+}
+```
+
+### success
+```json
+{ "code": null, "message": "OK", "payload": {} }
 ```

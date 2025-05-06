@@ -5,7 +5,7 @@ Auth: Yes
 ---
 
 ## Comment
-Check migration status, potentially migrate. No idea when this is triggered and what happens when gotta migrate i.e. player profile to new game version. Only allowed when inventory returned code NONE.
+Check migration status, potentially migrate. No idea when this is triggered and what happens when gotta migrate i.e. player profile to new game version.
 
 ## Example Request
 No payload.
