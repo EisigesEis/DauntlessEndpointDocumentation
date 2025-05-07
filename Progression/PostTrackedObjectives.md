@@ -7,11 +7,14 @@ Auth: Yes
 ## Example Request
 ```json
 {
-  "current_set": "HUNT_PASS_SET",
-  "omitted_quests": [],
   "phx_account_id": "XQBF5VHGFJHR5AUILEPYI55MUQ",
-  "tracked_craftables": [],
-  "tracked_quests": []
+  "current_set": "quest_slayer_links", // quest for which progress shows in the quick menu on the right
+  "omitted_quests": [],
+  "tracked_quests": [
+    "C83DE8BA43AFEC86BE2A588BE3F990E8",
+    "64AAEADB464D757E1E812AAD4463643F"
+  ],
+  "tracked_craftables": []
 }
 ```
 
