@@ -13,6 +13,6 @@ No payload
 ## Example Response
 ```json
 {
-  "isBanned": false
+  "isBanned": false // don't get the wrong idea here to unban yourself... wtf is going on even
 }
 ```
