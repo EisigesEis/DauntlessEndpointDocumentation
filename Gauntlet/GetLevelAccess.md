@@ -5,7 +5,7 @@ Auth: No
 ---
 
 ## Example Request
-No payload.
+No payload. If in a party, will iteratively ask, adding one party member at a time. So, `?account_id={PHXL ID1}` then `?account_id={PHXL ID1}&account_id={PHXL_ID2}` and `?account_id={PHXL ID1}&account_id={PHXL_ID2}&account_id={PHXL_ID3}`.
 
 ## Example Response
 ```json

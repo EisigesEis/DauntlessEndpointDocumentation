@@ -5,7 +5,7 @@ Auth: Yes (EOS)
 ---
 
 ## Comment
-Unverified if this is how it works.
+Unverified if this is how it works. While the client has rights for unlock, it seems the server unlocks achievements for client.
 
 ## Example Request
 ```json
