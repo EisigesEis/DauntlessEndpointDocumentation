@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "ladyluck_weapon_strikers_normal",
+    "displayName": "Victorious Aether Strikers",
+    "displayDescription": "A sterling set of aether strikers for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_AC_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_AC_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_strikers_prestige",
+    "displayName": "Champion's Aether Strikers",
+    "displayDescription": "A golden set of aether strikers for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_AC_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_AC_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_headbling_prestige",
+    "displayName": "Crown of the Champion",
+    "displayDescription": "An extremely impressive head accessory for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AC_HEAD_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AC_HEAD_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_spear_prestige",
+    "displayName": "Champion's War Pike",
+    "displayDescription": "A golden war pike for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_MS_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_MS_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_hammer_prestige",
+    "displayName": "Champion's Hammer",
+    "displayDescription": "A golden hammer for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_IH_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_IH_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_cb_passive_trials_02",
+    "displayName": "Demolition Blades",
+    "displayDescription": "After using a special, deal +100% damage to objects created by Behemoths for 6 seconds.",
+    "displayPriority": 12,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 250,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "live", "one_time"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_CB_PASSIVE_TRIALS_02", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_core_silver_slayer",
+    "displayName": "Uncommon Cell Core",
+    "displayDescription": "A valuable core containing a few cells.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CONTAINER_CORE_SILVER_CELLCORE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_chainblade_prestige",
+    "displayName": "Champion's Chain Blades",
+    "displayDescription": "A golden set of chain blades for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_CB_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_CB_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_chest_prestige",
+    "displayName": "Champion's Plate",
+    "displayDescription": "Golden torso protection for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_CHEST_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_CHEST_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_sword_normal",
+    "displayName": "Victorious Sword",
+    "displayDescription": "A sterling sword for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_EB_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_EB_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_spear_normal",
+    "displayName": "Victorious War Pike",
+    "displayDescription": "A sterling war pike for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_MS_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_MS_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_headbling_normal",
+    "displayName": "Crown of the Victor",
+    "displayDescription": "An impressive head accessory for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AC_HEAD_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AC_HEAD_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_chest",
+    "displayName": "Victorious Plate",
+    "displayDescription": "Sterling torso protection for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_CHEST_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_CHEST_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_axe_normal",
+    "displayName": "Victorious Axe",
+    "displayDescription": "A sterling axe for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_GA_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_GA_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_banner_prestige",
+    "displayName": "Champion's Standard",
+    "displayDescription": "A golden standard for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 7,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["BNC_STANDARD_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "BNC_STANDARD_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_sword_prestige",
+    "displayName": "Champion's Sword",
+    "displayDescription": "A golden sword for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_EB_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_EB_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_chainblade_normal",
+    "displayName": "Victorious Chain Blades",
+    "displayDescription": "A sterling set of chain blades for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_CB_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_CB_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_repeaters_normal",
+    "displayName": "Victorious Repeaters",
+    "displayDescription": "A sterling set of repeaters for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_DP_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_DP_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_dye_black",
+    "displayName": "Midnight Champion",
+    "displayDescription": "If you're going to own the night you'd better look the part.",
+    "displayPriority": 14,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_GRAY02_DURABLE"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_banner_normal",
+    "displayName": "Victorious Standard",
+    "displayDescription": "A sterling standard for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 7,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["BNC_STANDARD_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "BNC_STANDARD_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_helm",
+    "displayName": "Victorious Helm",
+    "displayDescription": "Sterling head protection for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_HELM_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_HELM_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_axe_prestige",
+    "displayName": "Champion's Axe",
+    "displayDescription": "A golden axe for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_GA_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_GA_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_legs",
+    "displayName": "Victorious Greaves",
+    "displayDescription": "Sterling leg and foot protection for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_LEGS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_LEGS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_arms",
+    "displayName": "Victorious Gauntlets",
+    "displayDescription": "Sterling arm and hand protection for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_ARMS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_ARMS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_legs_prestige",
+    "displayName": "Champion's Greaves",
+    "displayDescription": "Golden leg and foot protection for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_LEGS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_LEGS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_hammer_normal",
+    "displayName": "Victorious Hammer",
+    "displayDescription": "A sterling hammer for those who have earned gilded marks on the Island of Trials.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_IH_TRIALS_00"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_IH_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_arms_prestige",
+    "displayName": "Champion's Gauntlets",
+    "displayDescription": "Golden arm and hand protection for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_ARMS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_ARMS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_armor_helm_prestige",
+    "displayName": "Champion's Helm",
+    "displayDescription": "Golden head protection for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"\n",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["AR_TRIALS_HELM_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "AR_TRIALS_HELM_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_weapon_repeaters_prestige",
+    "displayName": "Champion's Repeaters",
+    "displayDescription": "A golden set of repeaters for those who have earned gilded marks on the Island of Trials and won the title \"Trials Champion.\"",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["WP_DP_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "WP_DP_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_bundle_consumables_00",
+    "displayName": "Silver Tonic Pack",
+    "displayDescription": "A bundle of useful tonics for a seasoned Trials slayer. Contains 25x Blitz Tonics, 25x Aetherdrive Tonics, and 25x Frenzy Tonics.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_supplies", "rarity_uncommon"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 25 },
+      { "catalogId": "QI_LANTERN_POTION", "quantity": 25 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 25 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_bundle_consumables_01",
+    "displayName": "Gold Tonic Pack",
+    "displayDescription": "A bundle of useful tonics for a seasoned Trials slayer. Contains 50x Blitz Tonics, 50x Aetherdrive Tonics, and 50x Frenzy Tonics.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_supplies"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 50 },
+      { "catalogId": "QI_LANTERN_POTION", "quantity": 50 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 50 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_lantern_cooldown_01",
+    "displayName": "Broadsides Lantern",
+    "displayDescription": "Strike with the full fury of the Fortunate Soul. Hold to drop a bomb from above that explodes after 1 second. Deals 2750 damage and can interrupt Behemoths.\n",
+    "displayPriority": 28,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": [],
+    "images": {},
+    "tags": ["ladyluckstore", "live", "one_time"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "LT_TRIALS_00", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "bundle_emoji_ladyluck",
+    "displayName": "Lady Luck Emoji Pack",
+    "displayDescription": "Contains 5 emojis, featuring your favourite serendipitous pirate.",
+    "displayPriority": 15,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 300,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": [
+      "EJ_LADYLUCK_03",
+      "EJ_LADYLUCK_02",
+      "EJ_LADYLUCK_05",
+      "EJ_LADYLUCK_04",
+      "EJ_LADYLUCK_01"
+    ],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "EJ_LADYLUCK_01", "quantity": 1 },
+      { "catalogId": "EJ_LADYLUCK_02", "quantity": 1 },
+      { "catalogId": "EJ_LADYLUCK_03", "quantity": 1 },
+      { "catalogId": "EJ_LADYLUCK_04", "quantity": 1 },
+      { "catalogId": "EJ_LADYLUCK_05", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "single_dye_white",
+    "displayName": "Sunlight Champion",
+    "displayDescription": "Set a shining example of what it looks like to be a winner.",
+    "displayPriority": 13,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_GRAY01_DURABLE"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY01_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "ladyluck_lantern_01_cosmetic",
+    "displayName": "Champion's Light",
+    "displayDescription": "A golden lantern for those who have defeated a Dauntless Behemoth on the Island of Trials.",
+    "displayPriority": 6,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 1000,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["LT_TRIALS_01"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_champion"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "LT_TRIALS_01", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_cell_core_gold_defence",
+    "displayName": "Rare Defense Cell Core",
+    "displayDescription": "Contains many different rewards, including Defense Cells, Rams, and more.",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_DEFENCE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_cell_core_gold_power",
+    "displayName": "Rare Power Cell Core",
+    "displayDescription": "Contains many different rewards, including Power Cells, Rams, and more.",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_POWER_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_cell_core_gold_technique",
+    "displayName": "Rare Technique Cell Core",
+    "displayDescription": "Contains many different rewards, including Technique Cells, Rams, and more.",
+    "displayPriority": 6,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_TECHNIQUE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_cell_core_gold_mobility",
+    "displayName": "Rare Mobility Cell Core",
+    "displayDescription": "Contains many different rewards, including Mobility Cells, Rams, and more.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_MOBILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_cell_core_gold_utility",
+    "displayName": "Rare Utility Cell Core",
+    "displayDescription": "Contains many different rewards, including Utility Cells, Rams, and more.",
+    "displayPriority": 7,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_gilded",
+        "price": 150,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_UTILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_dye_hp08b_punk_02",
+    "displayName": "Entropy",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 11,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_HP08B_PUNK_02_DURABLE"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP08B_PUNK_02_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_dye_hp11b_engineer_00",
+    "displayName": "Sundown",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 12,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 500,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_HP11B_ENGINEER_00_DURABLE"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cosmetics"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_HP11B_ENGINEER_00_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "trials_pr_frank",
+    "displayName": "Artificer",
+    "displayDescription": "This Lantern Core grants a drone that can perform a number of support actions depending on what you target it at.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_marks_steel",
+        "price": 300,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PR_FRANK"],
+    "images": {},
+    "tags": ["ladyluckstore", "store_trials_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PR_FRANK", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  }
+]

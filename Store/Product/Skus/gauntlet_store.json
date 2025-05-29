@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "sku_gauntlet_s1_consumables_b",
+    "displayName": "Iron Assault Bundle",
+    "displayDescription": "A bundle of useful items for a defender of old Ramsgate. Contains 10 Ironhide Pylons, 10 Assault Tonics, 10 Blitz Tonics, 10 Frenzy Tonics, and 10 Lifespring Pylons.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["rarity_uncommon", "gauntlet_store", "gauntlet_store_tab_misc"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_STAGGER_POTION", "quantity": 10 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 10 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_gauntlet_s1_consumables_a",
+    "displayName": "Inspiring Insight Bundle",
+    "displayDescription": "A bundle of useful items for a defender of old Ramsgate. Contains 10 Inspiring Pylons, 10 Insight Tonics, 10 Aetherdrive Tonics, 10 Bulwark Tonics, and 10 Lifedrain Tonics.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["rarity_uncommon", "gauntlet_store", "gauntlet_store_tab_misc"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_LANTERN_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 10 },
+      { "catalogId": "QI_EXPOSE_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_LIFESTEAL_AOE_POTION", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_gauntlet_s1_consumables_a_lc",
+    "displayName": "Inspiring Insight Bundle",
+    "displayDescription": "A bundle of useful items for a defender of old Ramsgate. Contains 10 Inspiring Pylons, 10 Insight Tonics, 10 Aetherdrive Tonics, 10 Bulwark Tonics, and 10 Lifedrain Tonics.",
+    "displayPriority": 999,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "rarity_uncommon",
+      "gauntlet_store",
+      "gauntlet_store_tab_lastchance"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_LANTERN_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_BLOCK_POTION", "quantity": 10 },
+      { "catalogId": "QI_EXPOSE_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_LIFESTEAL_AOE_POTION", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_gauntlet_s1_consumables_b_lc",
+    "displayName": "Iron Assault Bundle",
+    "displayDescription": "A bundle of useful items for a defender of old Ramsgate. Contains 10 Ironhide Pylons, 10 Assault Tonics, 10 Blitz Tonics, 10 Frenzy Tonics, and 10 Lifespring Pylons.",
+    "displayPriority": 999,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": [
+      "rarity_uncommon",
+      "gauntlet_store",
+      "gauntlet_store_tab_lastchance"
+    ],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "QI_STAGGER_POTION", "quantity": 10 },
+      { "catalogId": "QI_ATTACK_SPEED_POTION", "quantity": 10 },
+      { "catalogId": "QI_DAMAGE_ENRAGEBONUS_POTION", "quantity": 10 },
+      { "catalogId": "QI_DEFENSE_PYLON", "quantity": 10 },
+      { "catalogId": "QI_HEALING_PYLON_BIG", "quantity": 10 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_utility",
+    "displayName": "Rare Utility Cell Core",
+    "displayDescription": "Contains many different rewards, including Utility Cells, Rams, and more.",
+    "displayPriority": 6,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_UTILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_defence",
+    "displayName": "Rare Defense Cell Core",
+    "displayDescription": "Contains many different rewards, including Defense Cells, Rams, and more.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_DEFENCE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_technique",
+    "displayName": "Rare Technique Cell Core",
+    "displayDescription": "Contains many different rewards, including Technique Cells, Rams, and more.",
+    "displayPriority": 5,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_TECHNIQUE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_mobility",
+    "displayName": "Rare Mobility Cell Core",
+    "displayDescription": "Contains many different rewards, including Mobility Cells, Rams, and more.",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_MOBILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_power",
+    "displayName": "Rare Power Cell Core",
+    "displayDescription": "Contains many different rewards, including Power Cells, Rams, and more.",
+    "displayPriority": 4,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_POWER_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_dye_purple10",
+    "displayName": "Return",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 9,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_PURPLE10_DURABLE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE10_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_dye_gray10",
+    "displayName": "Quicksilver",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 8,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_GRAY10_DURABLE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY10_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_general",
+    "displayName": "Uncommon Cell Core",
+    "displayDescription": "A valuable core containing a few cells.",
+    "displayPriority": 1,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CONTAINER_CORE_SILVER_CELLCORE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_general_lc",
+    "displayName": "Uncommon Cell Core",
+    "displayDescription": "A valuable core containing a few cells.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "CONTAINER_CORE_SILVER_CELLCORE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_defence_lc",
+    "displayName": "Rare Defense Cell Core",
+    "displayDescription": "Contains many different rewards, including Defense Cells, Rams, and more.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_DEFENCE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_mobility_lc",
+    "displayName": "Rare Mobility Cell Core",
+    "displayDescription": "Contains many different rewards, including Mobility Cells, Rams, and more.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_MOBILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_power_lc",
+    "displayName": "Rare Power Cell Core",
+    "displayDescription": "Contains many different rewards, including Power Cells, Rams, and more.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_POWER_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_technique_lc",
+    "displayName": "Rare Technique Cell Core",
+    "displayDescription": "Contains many different rewards, including Technique Cells, Rams, and more.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_TECHNIQUE_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_cell_core_gold_utility_lc",
+    "displayName": "Rare Utility Cell Core",
+    "displayDescription": "Contains many different rewards, including Utility Cells, Rams, and more.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": null,
+    "remaining": null,
+    "duplicateInstancedItems": null,
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [
+      { "catalogId": "CONTAINER_CORE_GOLD_UTILITY_CELLCORE", "quantity": 1 }
+    ],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_dye_gray10_lc",
+    "displayName": "Quicksilver",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_GRAY10_DURABLE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_GRAY10_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_dye_purple10_lc",
+    "displayName": "Return",
+    "displayDescription": "An aether-infused dye that may be applied to many different fabrics and surfaces.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["DYE_PURPLE10_DURABLE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "DYE_PURPLE10_DURABLE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_pr_darkness",
+    "displayName": "Revenant",
+    "displayDescription": "This Lantern Core allows you to sacrifice health to spawn powerful tendrils that deal umbral damage.",
+    "displayPriority": 0,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PR_DARKNESS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_cells"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PR_DARKNESS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "gauntlet_pr_darkness_lc",
+    "displayName": "Revenant",
+    "displayDescription": "This Lantern Core allows you to sacrifice health to spawn powerful tendrils that deal umbral damage.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PR_DARKNESS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PR_DARKNESS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_kills_d24",
+    "displayName": "\"Behemoths Slain\" Tracker",
+    "displayDescription": "Tracks the number of Behemoths slain. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_KILLS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_KILLS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_kills_lc_d24",
+    "displayName": "\"Behemoths Slain\" Tracker",
+    "displayDescription": "Tracks the number of Behemoths slain. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_KILLS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_KILLS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_bighit_d24",
+    "displayName": "\"Biggest Hit\" Tracker",
+    "displayDescription": "Tracks the single biggest hit. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_BIGHIT"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_BIGHIT", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_bighit_lc_d24",
+    "displayName": "\"Biggest Hit\" Tracker",
+    "displayDescription": "Tracks the single biggest hit. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_BIGHIT"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_BIGHIT", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_damage_d24",
+    "displayName": "\"Damage Dealt\" Tracker",
+    "displayDescription": "Tracks the amount of damage dealt to Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DAMAGE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DAMAGE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_damage_lc_d24",
+    "displayName": "\"Damage Dealt\" Tracker",
+    "displayDescription": "Tracks the amount of damage dealt to Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DAMAGE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DAMAGE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_dodges_d24",
+    "displayName": "\"Dodges\" Tracker",
+    "displayDescription": "Tracks the number of Behemoth attacks dodged. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DODGES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DODGES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_dodges_lc_d24",
+    "displayName": "\"Dodges\" Tracker",
+    "displayDescription": "Tracks the number of Behemoth attacks dodged. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DODGES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DODGES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_pets_d24",
+    "displayName": "\"Dogs Pet\" Tracker",
+    "displayDescription": "Tracks the number of dogs pet. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DOGS_PET"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DOGS_PET", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_pets_lc_d24",
+    "displayName": "\"Dogs Pet\" Tracker",
+    "displayDescription": "Tracks the number of dogs pet. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DOGS_PET"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DOGS_PET", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_shortest_trial_d24",
+    "displayName": "\"Fastest Dauntless Trial Completion\" Tracker ",
+    "displayDescription": "Tracks the shortest completion time for a Dauntless Difficulty Trial. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_SHORTEST_TRIAL"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_SHORTEST_TRIAL", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_shortest_trial_lc_d24",
+    "displayName": "\"Fastest Dauntless Trial Completion\" Tracker ",
+    "displayDescription": "Tracks the shortest completion time for a Dauntless Difficulty Trial. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_SHORTEST_TRIAL"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_SHORTEST_TRIAL", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_shortest_hesca_d24",
+    "displayName": "\"Fastest Heroic Escalation Completion\" Tracker ",
+    "displayDescription": "Tracks the shortest completion time for a Heroic Escalation. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_SHORTEST_HESCA"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_SHORTEST_HESCA", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_shortest_hesca_lc_d24",
+    "displayName": "\"Fastest Heroic Escalation Completion\" Tracker ",
+    "displayDescription": "Tracks the shortest completion time for a Heroic Escalation. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_SHORTEST_HESCA"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_SHORTEST_HESCA", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_fauna_d24",
+    "displayName": "\"Fauna Slain\" Tracker",
+    "displayDescription": "Tracks the number of fauna slain. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_FAUNA"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_FAUNA", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_fauna_lc_d24",
+    "displayName": "\"Fauna Slain\" Tracker",
+    "displayDescription": "Tracks the number of fauna slain. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_FAUNA"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_FAUNA", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_gatherables_d24",
+    "displayName": "\"Gatherables\" Tracker",
+    "displayDescription": "Tracks the number of gatherables collected. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_GATHERABLES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_GATHERABLES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_gatherables_lc_d24",
+    "displayName": "\"Gatherables\" Tracker",
+    "displayDescription": "Tracks the number of gatherables collected. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_GATHERABLES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_GATHERABLES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_hesca_count_d24",
+    "displayName": "\"Heroic Escalations Completed\" Tracker",
+    "displayDescription": "Tracks the number of Heroic Escalations completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_HESCA_COUNT"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_HESCA_COUNT", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_hesca_count_lc_d24",
+    "displayName": "\"Heroic Escalations Completed\" Tracker",
+    "displayDescription": "Tracks the number of Heroic Escalations completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 2,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_HESCA_COUNT"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_HESCA_COUNT", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_interrupts_d24",
+    "displayName": "\"Interrupts\" Tracker",
+    "displayDescription": "Tracks the number of interrupts performed on Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_INTERRUPTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_INTERRUPTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_interrupts_lc_d24",
+    "displayName": "\"Interrupts\" Tracker",
+    "displayDescription": "Tracks the number of interrupts performed on Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_INTERRUPTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_INTERRUPTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_events_d24",
+    "displayName": "\"Island Events Completed\" Tracker",
+    "displayDescription": "Tracks the number of island events completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_EVENTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_EVENTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_events_lc_d24",
+    "displayName": "\"Island Events Completed\" Tracker",
+    "displayDescription": "Tracks the number of island events completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_EVENTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_EVENTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_longest_glide_d24",
+    "displayName": "\"Longest Glide\" Tracker",
+    "displayDescription": "Tracks the length of the longest single glide completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_LONGEST_GLIDE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_LONGEST_GLIDE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_longest_glide_lc_d24",
+    "displayName": "\"Longest Glide\" Tracker",
+    "displayDescription": "Tracks the length of the longest single glide completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_LONGEST_GLIDE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_LONGEST_GLIDE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_parts_d24",
+    "displayName": "\"Parts Broken\" Tracker",
+    "displayDescription": "Tracks the number of parts broken from Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_PARTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_PARTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_parts_lc_d24",
+    "displayName": "\"Parts Broken\" Tracker",
+    "displayDescription": "Tracks the number of parts broken from Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_PARTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_PARTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_chests_d24",
+    "displayName": "\"Patrol Chests Opened\" Tracker",
+    "displayDescription": "Tracks the number of Patrol Chests opened. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_CHESTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_CHESTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_chests_lc_d24",
+    "displayName": "\"Patrol Chests Opened\" Tracker",
+    "displayDescription": "Tracks the number of Patrol Chests opened. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 3,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_CHESTS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_CHESTS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_wt_revives_d24",
+    "displayName": "\"Players Revived\" Tracker",
+    "displayDescription": "Tracks the number of players revived. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_REVIVES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_REVIVES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_wt_revives_lc_d24",
+    "displayName": "\"Players Revived\" Tracker",
+    "displayDescription": "Tracks the number of players revived. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_REVIVES"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_REVIVES", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_rams_d24",
+    "displayName": "\"Rams Headbutted\" Tracker",
+    "displayDescription": "Tracks the number of rams headbutted. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_RAMS_HEADBUTTED"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_RAMS_HEADBUTTED", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_rams_lc_d24",
+    "displayName": "\"Rams Headbutted\" Tracker",
+    "displayDescription": "Tracks the number of rams headbutted. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_RAMS_HEADBUTTED"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_RAMS_HEADBUTTED", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_staggers_d24",
+    "displayName": "\"Staggers\" Tracker",
+    "displayDescription": "Tracks the number of staggers performed on Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_STAGGERS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_STAGGERS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_staggers_lc_d24",
+    "displayName": "\"Staggers\" Tracker",
+    "displayDescription": "Tracks the number of staggers performed on Behemoths. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_STAGGERS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_STAGGERS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_downed_d24",
+    "displayName": "\"Times Downed\" Tracker",
+    "displayDescription": "Tracks the number of times you were downed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DOWNED"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DOWNED", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_downed_lc_d24",
+    "displayName": "\"Times Downed\" Tracker",
+    "displayDescription": "Tracks the number of times you were downed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_DOWNED"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_DOWNED", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_gauntlet_levels_unique_d24",
+    "displayName": "\"Unique Gauntlet Levels Completed\" Tracker",
+    "displayDescription": "Tracks the number of unique levels of Gauntlet completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_GAUNTLET_LEVELS_UNIQUE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_GAUNTLET_LEVELS_UNIQUE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_gauntlet_levels_unique_lc_d24",
+    "displayName": "\"Unique Gauntlet Levels Completed\" Tracker",
+    "displayDescription": "Tracks the number of unique levels of Gauntlet completed. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_GAUNTLET_LEVELS_UNIQUE"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_GAUNTLET_LEVELS_UNIQUE", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_wounds_d24",
+    "displayName": "\"Wounds\" Tracker",
+    "displayDescription": "Tracks the number of Behemoths parts wounded. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_WOUNDS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_trackers"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_WOUNDS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  },
+  {
+    "id": "sku_part_wt_wounds_lc_d24",
+    "displayName": "\"Wounds\" Tracker",
+    "displayDescription": "Tracks the number of Behemoths parts wounded. Tracking starts after purchase; equip in the Personality screen.",
+    "displayPriority": 1000,
+    "prices": [
+      {
+        "currencyId": "id_currency_gauntlet_coin_faded",
+        "price": 1,
+        "salesPrice": null,
+        "multiPrice": null
+      }
+    ],
+    "maxAllowed": 1,
+    "remaining": 0,
+    "duplicateInstancedItems": ["PART_WT_WOUNDS"],
+    "images": {},
+    "tags": ["gauntlet_store", "gauntlet_store_tab_lastchance"],
+    "scheduledTags": null,
+    "items": [{ "catalogId": "PART_WT_WOUNDS", "quantity": 1 }],
+    "entitlements": [],
+    "skuProgression": null,
+    "loadoutSlots": null,
+    "availableFrom": null,
+    "availableTo": null,
+    "timeAvailabilityReason": null,
+    "platformOfferId": null,
+    "missingEntitlementNames": null
+  }
+]

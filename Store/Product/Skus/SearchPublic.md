@@ -12,6 +12,15 @@ tags:
 No payload.
 
 ## Example Response
+### missing requiredTags
+`/public`
+```json
+{
+  "code": "400",
+  "message": "missing requiredTags query parameter"
+}
+```
+
 ### tags=dyes
 [dyes.json](./dyes.json)
 
@@ -19,10 +28,12 @@ No payload.
 [loadout_slots.json](./loadout_slots.json)
 
 ### tags=d24_season1_pass
+It does this response on my main account. I'm pretty sure that's indication for when hunt pass was bought already.
 ```json
 []
 ```
 
+It does this response on alt account where I don't own huntpass:
 [d24_season1_pass.json](./d24_season1_pass.json)
 
 ### tags=huntpass_store
@@ -36,3 +47,9 @@ No payload.
 
 ### tags=webstore
 [awakening_webstore.json](./awakening_webstore.json)
+
+### tags=gauntlet_store
+[gauntlet_store.json](./gauntlet_store.json)
+
+### tags=ladyluckstore
+[ladyluckstore.json](./ladyluckstore.json)
