@@ -8,6 +8,7 @@ Auth: Yes
 Client tells server its state including surroundings and previous actions.
 
 ## Example Request
+## Dauntless Client
 ```json
 [
   // array of events
@@ -530,6 +531,40 @@ Public hunt report friendship.
     "rank": 2515
   }
 ]
+```
+
+## Dauntless Launcher
+[Dauntless Launcher](../CDN/Production/README.md) refers to the standalone launcher before Dauntless was on Epic Games Launcher.
+
+Yes, back then a single json was ingested per request.
+### time to ui
+```json
+{
+  "type": "cef",
+  "time": 0.3926754,
+  "version": 97904,
+  "InstallationID": "fc0422b0-6f77-416d-9ac2-73c4d20cd88e",
+  "SessionID": "b4a4e275-e1bb-4fd0-a069-b6cb2b93bad0",
+  "EventName": "time_to_ui",
+  "ThreadID": 1,
+  "ThreadName": null,
+  "ThreadIsBackground": false
+}
+```
+
+### failed to retrieve patcher
+```json
+{
+  "version": 97904,
+  "ErrorShort": "Failed to retrieve the package information for '{0}'",
+  "Error": "Error: Failed to retrieve the package information for 'Patcher'",
+  "InstallationID": "fc0422b0-6f77-416d-9ac2-73c4d20cd88e",
+  "SessionID": "b4a4e275-e1bb-4fd0-a069-b6cb2b93bad0",
+  "EventName": "patcher_error",
+  "ThreadID": 15,
+  "ThreadName": "Package Update Thread",
+  "ThreadIsBackground": true
+}
 ```
 
 ## Example Response
