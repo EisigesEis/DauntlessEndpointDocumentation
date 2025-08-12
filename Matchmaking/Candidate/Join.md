@@ -9,7 +9,7 @@ Create match from ping data and match type.
 
 ## Example Request
 - `gameMode=CITY` has `gameType`: `CITY`
-- `gameMode=ISLAND` has `gameType`: `HUNTING_GROUND`, `ESCALATION`
+- `gameMode=ISLAND` has `gameType`: `HUNTING_GROUND`, `ESCALATION`, `GAUNTLET`, `TRIALS`
 
 ### Ramsgate
 ```json

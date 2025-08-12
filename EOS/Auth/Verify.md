@@ -8,7 +8,7 @@ Auth: Yes (EOS)
 Yet another tokenInfo.
 
 ## Example Request
-Empty body.
+No payload.
 
 ## Example Response
 ```json

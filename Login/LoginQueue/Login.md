@@ -2,6 +2,8 @@ URL: https://login-queue-prod.steelyard.ca/login \
 Method: POST \
 Auth Required: Yes (Access Token)
 
+---
+
 ## Comment
 Called by the game after retrieving Access Token and before retrieving the Session Token.
 
